@@ -15,4 +15,4 @@ Para descargar desde GITHUB y empaquetar proyecto siga estos pasos:
 
 Para acceder al programa desplegado en Heroku
 
-1. Desde un navegador acceda a la url urlHeroku
+1. Desde un navegador acceda a la url http://calm-retreat-68556.herokuapp.com/
